@@ -1,6 +1,7 @@
 <template>
   <NavBar />
-  <Profile />
+  <router-view></router-view>
+  <!-- <Profile /> -->
 </template>
 
 <script>
